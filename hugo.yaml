@@ -1,0 +1,14 @@
+baseURL: "https://aanikitenko.github.io/my_site/"
+title: "Арина Никитенко"
+languageCode: "ru"
+defaultContentLanguage: "ru"
+theme: "hugo-profile"
+
+params:
+  name: "Арина Никитенко"
+  role: "Студентка"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
